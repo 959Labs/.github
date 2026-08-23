@@ -7,7 +7,8 @@
 
 ### 🚀 Projects
 
-* 🎮 **Zijeossi: Lazy Awakened Hero** (`v2.0.0`)  
+* 🎮 **Zijeossi: Lazy Awakened Hero** (`v2.0.0`)
+  * *Platform*: Web / Desktop  
   * *Genre*: **2D Top-Down Action RPG / Web Hack & Slash**  
   * *Highlights*: A massive open-world RPG featuring 15 continents, 40 raid bosses, and a real-time hotpatch system—built from scratch without external game engines.  
   * *Tech*: Vanilla JavaScript (Canvas 2D), Web Audio API, Python (`pywebview`), HTML5/CSS3  
@@ -15,9 +16,9 @@
 
 * 🐾 **BottomRight Pet (우하단펫)** (`Beta / WIP`)  
   * *Platform*: Windows 10 / 11  
-  * *Type*: Interactive Desktop Pet & Productivity Companion  
+  * *Genre/Type*: Interactive Desktop Pet & Productivity Companion  
   * *Highlights*: Pomodoro focus timer, To-Do scheduler, and MediaPipe AI-powered webcam finger-gun interaction.  
-  * *Tech*: Python (`PyQt6`), MediaPipe, OpenCV  
+  * *Tech*: Python (`PyQt6`), MediaPipe, OpenCV, 1-Euro Filter  
   * *Status*: Active Development  
 
 ---
@@ -29,6 +30,7 @@
 * **Desktop & Utilities:** `Python (PyQt6 / pywebview)` `Tauri` `WPF / WinUI 3` `Windows API`
 * **Vision & Interaction:** `MediaPipe` `OpenCV` `Hand Gesture Tracking` `1-Euro Filter`
 * **Workflow & Architecture:** `Git / GitHub Actions` `Zero-Dependency Architecture`
+* **Robotics & Simulation (Optional):** `Kinematics & Dynamics` `PID Control` `Physics Modeling`
 
 ---
 
